@@ -29,5 +29,11 @@ a:active {
   
 p {
   font-size: large;
-  text-align: center;
+  text-align: left;
+}
+
+p.ex1 {
+  margin: 35px;
+  font-size: large;
+  text-align: left;
 }
