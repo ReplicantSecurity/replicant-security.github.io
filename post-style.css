@@ -33,10 +33,10 @@ p {
 }
 
 h1 {
-  margin-left: 50%;
-  margin-right: 50%;
+  margin-left: 10%;
+  margin-right: 10%;
   font-family: "Open Sans", sans-serif;
-  font-size: 20px;
+  font-size: 40px;
 }
 
 p.ex1 {
