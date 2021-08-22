@@ -35,6 +35,9 @@ p {
 p.ex1 {
   padding: 1rem;
   max-width: 20px;
-  margin: 4rem auto;
+  margin-left: 4rem auto;
+  margin-right: 4rem auto;
+  margin-top: 4rem auto;
+  margin-bottom: 4rem auto;
   font-family: "Open Sans", sans-serif;
  }
