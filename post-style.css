@@ -28,5 +28,6 @@ a:active {
 }
   
 p {
-  font-size: large;  
+  font-size: large;
+  text-align: center;
 }
