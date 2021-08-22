@@ -33,8 +33,8 @@ p {
 }
 
 p.ex1 {
-  margin-left: 0.75rem auto;
-  margin-right: 0.75rem auto;
+  margin-left: 1rem auto;
+  margin-right: 1rem auto;
   margin-top: 4rem auto;
   margin-bottom: 4rem auto;
   font-family: "Open Sans", sans-serif;
